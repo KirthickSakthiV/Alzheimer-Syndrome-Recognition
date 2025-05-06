@@ -9,3 +9,10 @@
 ![image alt](https://github.com/user-attachments/assets/b3734511-44a5-444b-8585-f4b116813fa2)
 
 
+# Technology/Stack Used
+- **Domain :** Deep Learning [CNN]
+- **Architecture :** VGG16
+- **Algorithm :** ResNet,DenseNet 
+
+
+
