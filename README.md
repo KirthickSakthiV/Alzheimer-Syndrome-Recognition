@@ -12,7 +12,7 @@
 # Technology/Stack Used
 - **Domain :** Deep Learning [CNN]
 - **Architecture :** VGG16
-- **Algorithm :** ResNet,DenseNet 
+- **Algorithm :** ResNet,DenseNet
 
 
 
